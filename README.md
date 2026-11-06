@@ -90,5 +90,4 @@ Finally, the system classifies lead intent. If a lead is "Disqualified" or "Unsu
 
 ## ✍️ Author
 **Muneeb Ali Khan**
-- **GitHub:** [@Muneeb20019](https://github.com/Muneeb20019)
 - **LinkedIn:** [Muneeb Ali Khan](https://www.linkedin.com/in/muneeb-ali-khan-2a1675365)
